@@ -1,2 +1,4 @@
 # age-in-seconds
-My first Python script that calculated age in seconds.
+Python script that calculates age in seconds.
+This is my first script ever, and I know this script don't print precise result.
+Suggestions are welcome. I'm here to learn.
