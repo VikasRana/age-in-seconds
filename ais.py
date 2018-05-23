@@ -1,4 +1,5 @@
 import time
+
 print("Hello and welcome to my 'age in seconds' calculator! Please press enter to continue.")
 time.sleep(2)
 user_years = input("Press Enter Now")
@@ -8,6 +9,7 @@ user_years = input("Total Years : ")
 user_days = input("Total Extra Days : ")
 user_hours = input("Total Extra Hours : ")
 user_minutes = input("Total Extra Minutes : ")
+
 # some_so-called_humorus_statements
 print("Please wait for few secs while I calculate your age!")
 time.sleep(2)
